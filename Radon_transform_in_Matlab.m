@@ -1,3 +1,13 @@
+% File: Radon_transform_in_Matlab.m
+% Description: Radon Transformations in Matlab
+% Environment: Matlab
+%
+% MIT License
+% Copyright (c) 2017 Valentyn N Sichkar
+% github.com/sichkar-valentyn
+% Reference to:
+% [1] Valentyn N Sichkar. Radon Transformations in Matlab // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Radon_Transformation_Matlab (date of access: XX.XX.XXXX)
+
 close all;
 
 %Conversion of a gray scale image to a binary one
