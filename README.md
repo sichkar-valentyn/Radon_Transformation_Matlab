@@ -1,4 +1,4 @@
-# Radon_Transformation_Matlab
+# Radon Transformation Matlab
 Radon Transformations in Matlab
 
 ### Reference to:
