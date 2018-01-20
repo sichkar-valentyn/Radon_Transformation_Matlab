@@ -7,6 +7,15 @@ Radon Transformations in Matlab
 ## Description
 In this study we’re going to learn what the Radon transformation is and how to use it in Matlab. We’re going to work with two images – first is with lines and second is with rectangle.
 
+<p>The main steps of the Radon Transformation part are:</p>
+<ul>
+<li>Convert a gray scale image to a binary image</li>
+<li>Radon transformation of the binary image</li>
+<li>Finding the strong peaks in the Radon transform matrix</li>
+<li>Detection of the angles of the straight lines in the original image</li>
+<li>Finding the position of the rectangle</li>
+</ul>
+
 ## Radon Transformation with lines
 ![Results](images/Radon_Transformation_with_lines.png)
 
