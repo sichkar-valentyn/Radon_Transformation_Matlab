@@ -1,9 +1,6 @@
 # Radon Transformation Matlab
 Radon Transformations in Matlab
 
-### Courses:
-* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
-
 ### Reference to:
 [1] Valentyn N Sichkar. Radon Transformations in Matlab // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Radon_Transformation_Matlab (date of access: XX.XX.XXXX)
 
